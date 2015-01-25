@@ -9,7 +9,7 @@ function BrowserInfo(ua)
     var bn;
     var bv;
     var bt = 32;
-    var a = [];
+    var a = {};
 
     var i = function (str)
     {
